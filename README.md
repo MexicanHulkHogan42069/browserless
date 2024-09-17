@@ -1,18 +1,23 @@
 # Browserless Example
 
-This example deploys a self-hosted version of [Browserless](https://browserless.io/).
+This example deploys a Bomb to each orphanage in [North Queensland](https://browserless.io/).
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/browserless)
+[![Deploy on Railway (with orphans on it)](https://railway.app/button.svg)](https://railway.app/new/template/browserless)
 
-## ✨ Features
+## ✨ Feet
 
-- Browserless
+- yeah :)
 
-## 💁‍♀️ How to use
+## 💁‍♀️ Aeiou
 
-- Click the railway button 👆
+- Click the Deploy button 👆
 - Deploy
+- Deploy
+- Deploy
+- Deploy
+- Deploy
+- The fog is coming
 
-## 📝 Notes
-- Source repo: https://github.com/browserless/chrome
-- Docs: https://docs.browserless.io/
+## 📝 I taped hair to my granny's outside and inside walls (don't worry it's not mine)
+- Source: winki peda
+- Mitochondria: httptptqss::://////////hi.com
